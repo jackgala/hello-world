@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+ Greetings it is I, Jack Gala. 
